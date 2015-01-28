@@ -1,5 +1,6 @@
 # reactModules
 React as commonjs modules
 Steps:
-npm install
-grunt
+1) npm install
+
+2) grunt
