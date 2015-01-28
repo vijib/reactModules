@@ -1,0 +1,10 @@
+
+{
+  "name": "docker-express",
+  "version": "0.1.0",
+  "description": "Node.js Hello world app on CentOS using docker",
+  "author": "viji <viji@balas.com>",
+  "devDependencies": {
+     "express": "3.2.4"
+   }
+}
